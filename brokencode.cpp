@@ -1,10 +1,12 @@
-#include using namespace std;
+#include <iostream>
+using namespace std;
 
-void main(){
+int main(){
     //broken code haha
     //broken code haha
     //brokej code haha
     //broken code haha
 
     cout << "hHA   mmh broken code ";
+    return 0;
 }
